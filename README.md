@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gaurip21
-- 👀 I’m interested in Software Engineer/Web Developer opportunities.
 - 📫 You can reach out to me at phatalegauri@outlook.com
 
 <!---
